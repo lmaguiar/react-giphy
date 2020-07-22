@@ -42,6 +42,8 @@
 
   5) Create app.jsx, gif.jsx, gif_list.jsx, search_bar.jsx.... one file per component
 
+  6) yarn add giphy-api (add API giphy)
+
   para iniciar o servidor local host 8080 yarn start
 
   Download react developer tools Chrome extension to help you:
